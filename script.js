@@ -10,5 +10,5 @@ sounds.forEach(sound => {
 // set the text inside the button to the name of the sound
     btn.innerText = sound
 // appent the button to the container.
-    document.getElementById('buttons').appendChild(btn)
-}
+    document.getElementById('buttons').appendChild(btn);
+});
